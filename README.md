@@ -1,1 +1,1 @@
-# ritsu.github.io
+# [Ritsu Bot](https://arsybai.github.io/ritsu)
